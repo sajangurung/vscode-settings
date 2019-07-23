@@ -1,0 +1,32 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "all",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.singleQuote": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.wordWrap": "on",
+    "editor.trimAutoWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
+    "workbench.colorTheme": "One Dark Pro",
+    "prettier.tslintIntegration": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    }
+}
